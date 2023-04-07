@@ -19,7 +19,7 @@ header nav button {
     border: 1px solid white;
     text-decoration: none;
 color: aliceblue;
-background: blueviolet;
+background: blueviolet
 }
 .about{
     margin: 10px;
@@ -57,6 +57,7 @@ section button{
     display: block;
     text-align: center;
     margin: 30px   ;
+    border:  none;
 }
 .projects div img {
     width: 100%;
